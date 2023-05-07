@@ -1,0 +1,3 @@
+com\example\claimaccounting\ServletInitializer.class
+com\example\claimaccounting\web\RestController.class
+com\example\claimaccounting\ClaimAccountingApplication.class
